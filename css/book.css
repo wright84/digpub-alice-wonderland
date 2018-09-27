@@ -1,3 +1,6 @@
-#Illustrations{font-style: italic;}
-.Publisher{font-variant: small-caps;font-family: serif;}
-#Year{text-align: center;}
+.Illustrations{font-style: italic;text-align: center;}
+.Publisher{font-variant: small-caps;font-family: serif;text-align: center;}
+.Year{text-align: center;font-variant: small-caps;}
+#Intro{text-align: center;}
+#Intro2{text-align: center;}
+#Intro4{text-align: center;}
