@@ -1,0 +1,21 @@
+em{
+  font-style: italic;
+}
+
+strong{
+  font-weight: bold;
+}
+
+.chapter-number{
+  font-size: x-large;
+  font: garamond;
+  font-family: serif;
+  text-align: center;
+}
+
+.chapter-title{
+  font-size: large;
+  font: garamond;
+  font-family: serif;
+  text-align: center;
+}
