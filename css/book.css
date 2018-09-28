@@ -4,18 +4,30 @@ em{
 
 strong{
   font-weight: bold;
+  text-transform: uppercase;
 }
 
-.chapter-number{
+h3{
   font-size: x-large;
   font: garamond;
   font-family: serif;
   text-align: center;
+  text-transform: uppercase;
 }
 
-.chapter-title{
+h4{
   font-size: large;
   font: garamond;
   font-family: serif;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+figcaption{
+  font-style: italic;
+}
+
+blockquote{
+  font-style: italic;
   text-align: center;
 }
