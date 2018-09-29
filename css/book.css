@@ -7,3 +7,4 @@
 .Title{font-variant: small-caps;text-align: center;}
 #Number{text-align: center;}
 #picture{text-align: center;}
+#page_1{page-break-before: always;}
