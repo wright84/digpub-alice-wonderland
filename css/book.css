@@ -1,0 +1,26 @@
+h3{
+
+}
+
+h4{
+  
+}
+
+.italics{
+  font-style:italic;
+}
+
+p{
+  font-style: normal;
+  font-family: sans-serif;
+  font-color: black;
+}
+
+blockquote{
+  font-style:italics
+  margin: 5%;
+}
+
+figure{
+
+}
