@@ -1,9 +1,11 @@
 h3{
-
+  font-size: 120%;
 }
 
 h4{
-  
+  font-size: 120%;
+  font-style: normal;
+  font-family: serif;
 }
 
 .italics{
@@ -21,6 +23,10 @@ blockquote{
   margin: 5%;
 }
 
-figure{
+#weird-capitalization{
+  font-style: italic;
+}
 
+#important-character-intro{
+  font-weight: bold;
 }
